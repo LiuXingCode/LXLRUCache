@@ -1,0 +1,16 @@
+PODS:
+  - LXLRUCache (0.1.0)
+
+DEPENDENCIES:
+  - LXLRUCache (from `../`)
+
+EXTERNAL SOURCES:
+  LXLRUCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LXLRUCache: bb190a8eb9c4e172b4e0c78eaab75574c52aa932
+
+PODFILE CHECKSUM: 75c4e31fc59d7ac83a5bc4d1ec3f0af94214f0a8
+
+COCOAPODS: 1.10.1
